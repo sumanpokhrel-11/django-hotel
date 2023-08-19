@@ -1,0 +1,35 @@
+:root{
+    --text-color:#FAF7F0;
+    --bg-color:#98A8F8;
+    --primary-color:#BCCEF8;
+    --main-color:#CDFCF6;
+
+}
+*{
+    margin:0;
+}
+body{
+ 
+
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+   }
+   nav{
+    margin:0;
+   }
+   .welcome{
+    height:40vh;
+    padding-top: 8vh;
+    padding-bottom: 5vh;
+   }
+.welcome h1{
+    color:#98A8F8;
+    text-align: center;
+}
+.welcome h2{
+    text-align: center;
+}
+.welcome h2 span{
+    color:aquamarine;
+    text-transform: capitalize;
+}
